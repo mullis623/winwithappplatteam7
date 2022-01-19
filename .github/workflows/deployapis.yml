@@ -28,8 +28,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'Contoso.Healthcare/**'
 
 jobs:
   build:
